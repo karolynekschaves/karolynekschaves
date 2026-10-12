@@ -1,10 +1,13 @@
 
 <div align="center">
   <a href="https://github.com/karolynekschaves">
-    <img width="900" height="500" alt=<img width="height="450" alt="<img width="720" height="405" alt="perfil_animado_leve" src="https://github.com/user-attachments/assets/4e99e0da-d5a5-45cf-8ffa-6b0e3a427adc"/>
+    <img width="900" height="500" alt=<img width="height="450" alt="<img width="720" height="405" alt="perfil_animado_leve" src="https://github.com/user-attachments/assets/e5b82332-2b69-44ef-afb2-9a14a079b9d9"/>
+    <p align="center">
+     <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f8b5c8&center=true&vCenter=true&width=600&height=50&lines=HELLO!!+I'M+KAROL;WELCOME!!+TO+MY+PROFILE" alt="Typing SVG" />
   </a>
+</p
 </div>
-<br>
 <div align="center">
 <!--Links de perfil -->
 <div align="center">
